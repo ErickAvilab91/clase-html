@@ -1,0 +1,17 @@
+.synopsis{
+    color: aquamarine;
+    background-color: black;
+}
+
+#ident{
+    color: blue;
+    background-color: blueviolet;
+    font-size: 60px;
+}
+
+.box{
+    font-size: 50px;
+}
+#xox{
+    font-size: 80rem;
+}
